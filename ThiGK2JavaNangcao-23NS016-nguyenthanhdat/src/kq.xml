@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<class>
+    <student id="2">
+        <name>Nguyen Van A</name>
+        <address>04 Trần Hưng Đạo Điện Bàn</address>
+        <dob>2004-07-27</dob>
+        <age>19</age>
+        <encodedAge>91</encodedAge>
+        <isDigitPrime>false</isDigitPrime>
+    </student>
+</class>

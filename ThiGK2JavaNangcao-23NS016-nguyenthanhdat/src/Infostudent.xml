@@ -1,0 +1,14 @@
+<Students>
+    <Student>
+        <Id>1</Id>
+        <Name>Nguyen Thanh Dat</Name>
+        <Address>04 Trần Hưng Đạo Điện Bàn</Address>
+        <DateOfBirth>2004-07-27</DateOfBirth>
+    </Student>
+    <Student>
+        <Id>2</Id>
+        <Name>Nguyen Van A</Name>
+        <Address>04 Trần Hưng Đạo Điện Bàn</Address>
+        <DateOfBirth>2004-07-27</DateOfBirth>
+    </Student>
+</Students>
